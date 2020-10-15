@@ -7,7 +7,7 @@
 -->
 <html>
 	<head>
-		<title>Moetaz Asharf</title>
+		<title>ٍSaeed Hassan</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -30,7 +30,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="https://drive.google.com/file/d/1WpsxscKJ0buibSP2im_MfC0ibDhZWLDh/view?usp=sharing" class="logo">View Full CV</a>
+						<a href="" class="logo">View Full CV</a>
 					</header>
 
 				<!-- Nav -->
@@ -38,9 +38,9 @@
 
 						<ul class="icons">
 
-							<li><a href="https://facebook.com/amotaz" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-							<li><a href="https://www.linkedin.com/in/amoetaz/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://github.com/amoetaz" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="www.linkedin.com/in/saeed-hassan" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/saeedcops" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 						</ul>
 					</nav>
 
